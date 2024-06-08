@@ -1,13 +1,9 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
-        unordered_set<int> s;
+        unordered_set<int> s(nums.begin(),nums.end());
         
         int lar = 0;
-        for(auto i:nums){
-            s.insert(i);
-        }
         
         for(auto i:nums){
             int prev = i-1;
