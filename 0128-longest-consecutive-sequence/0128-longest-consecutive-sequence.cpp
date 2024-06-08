@@ -6,17 +6,13 @@ public:
         int lar = 0;
         
         for(auto i:nums){
-            int prev = i-1;
-            if(s.find(prev)==s.end()){
-            int next = i+1;
-            int cnt=1;
-            while(s.find(next)!=s.end()){
-                next++;
-                cnt++;
-            }
-            if(cnt>lar){
-                lar=cnt;
-            }
+            if(s.find(i-1)==s.end()){
+                int cnt=1;
+                while(s.find(i+1)!=s.end()){
+                    i++;
+                    cnt++;
+                }
+                lar = max(lar,cnt);
             }
         }
         return lar;
