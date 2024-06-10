@@ -1,0 +1,25 @@
+name: Count Folders
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  count-folders:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Count folders
+      id: count_folders
+      run: |
+        echo "Total folders=$(find . -type d | wc -l)" >> $GITHUB_ENV
+
+    - name: Output folder count
+      run: echo "The total number of folders in the repository is ${{ env.Total_folders }}"
