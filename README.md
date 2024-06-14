@@ -20,4 +20,13 @@ Daily LeetCode Problems
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+# Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
