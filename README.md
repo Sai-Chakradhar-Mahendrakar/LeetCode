@@ -17,11 +17,13 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
 # Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
 # Math
 |  |
 | ------- |
@@ -46,3 +48,11 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+# Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
