@@ -13,3 +13,11 @@ Daily LeetCode Problems
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+# Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+# Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
