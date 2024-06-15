@@ -40,6 +40,7 @@ Daily LeetCode Problems
 # Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
 # Two Pointers
@@ -49,6 +50,7 @@ Daily LeetCode Problems
 # Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
 # Bit Manipulation
@@ -75,3 +77,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
