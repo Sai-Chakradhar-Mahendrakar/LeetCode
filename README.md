@@ -42,6 +42,7 @@ Daily LeetCode Problems
 # Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@ Daily LeetCode Problems
 # Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -76,6 +78,7 @@ Daily LeetCode Problems
 # Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 # Heap (Priority Queue)
 |  |
