@@ -101,3 +101,19 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1023-time-based-key-value-store) |
+# Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
