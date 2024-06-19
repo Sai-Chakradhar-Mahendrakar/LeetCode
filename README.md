@@ -27,6 +27,7 @@ Daily LeetCode Problems
 # Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
 | [1023-time-based-key-value-store](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -51,6 +52,7 @@ Daily LeetCode Problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
@@ -88,6 +90,7 @@ Daily LeetCode Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Daily LeetCode Problems
 | [0100-same-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -147,6 +151,7 @@ Daily LeetCode Problems
 | [0100-same-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
