@@ -116,6 +116,7 @@ Daily LeetCode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -129,6 +130,7 @@ Daily LeetCode Problems
 | [0100-same-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -153,6 +155,7 @@ Daily LeetCode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -172,3 +175,7 @@ Daily LeetCode Problems
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
