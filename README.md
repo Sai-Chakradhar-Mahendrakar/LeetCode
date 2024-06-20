@@ -66,6 +66,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 # Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -103,6 +105,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1127-last-stone-weight) |
@@ -201,6 +204,7 @@ Daily LeetCode Problems
 # Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 # Geometry
 |  |
@@ -209,6 +213,7 @@ Daily LeetCode Problems
 # Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 # Quickselect
 |  |
