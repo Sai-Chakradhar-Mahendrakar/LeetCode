@@ -58,6 +58,7 @@ Daily LeetCode Problems
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1127-last-stone-weight) |
 # Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Daily LeetCode Problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1127-last-stone-weight) |
 # Merge Sort
 |  |
 | ------- |
