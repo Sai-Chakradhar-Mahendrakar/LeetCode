@@ -13,6 +13,7 @@ Daily LeetCode Problems
 | [0620-not-boring-movies](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1390-average-selling-price) |
