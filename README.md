@@ -92,6 +92,7 @@ Daily LeetCode Problems
 | ------- |
 | [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -156,6 +157,7 @@ Daily LeetCode Problems
 | [0110-balanced-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -194,6 +196,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -247,3 +250,4 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
