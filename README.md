@@ -45,6 +45,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 # Recursion
 |  |
@@ -225,3 +226,11 @@ Daily LeetCode Problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+# Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
