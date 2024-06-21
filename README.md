@@ -47,6 +47,7 @@ Daily LeetCode Problems
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Daily LeetCode Problems
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Hash Function
 |  |
 | ------- |
@@ -234,3 +236,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
+# Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
