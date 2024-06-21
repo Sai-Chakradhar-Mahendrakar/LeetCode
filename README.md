@@ -33,6 +33,7 @@ Daily LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1023-time-based-key-value-store) |
 # Linked List
 |  |
@@ -90,6 +91,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -191,6 +193,7 @@ Daily LeetCode Problems
 # String Matching
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -240,3 +243,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+# Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
