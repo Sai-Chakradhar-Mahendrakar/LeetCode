@@ -51,6 +51,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -58,6 +59,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0050-powx-n) |
 # Array
 |  |
 | ------- |
