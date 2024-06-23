@@ -52,6 +52,7 @@ Daily LeetCode Problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -68,6 +69,7 @@ Daily LeetCode Problems
 | [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
@@ -248,6 +250,7 @@ Daily LeetCode Problems
 # Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
 # Greedy
 |  |
@@ -258,3 +261,7 @@ Daily LeetCode Problems
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
