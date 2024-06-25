@@ -99,6 +99,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0461-hamming-distance) |
 # Design
 |  |
 | ------- |
