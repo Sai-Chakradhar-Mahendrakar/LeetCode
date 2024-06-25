@@ -58,6 +58,7 @@ Daily LeetCode Problems
 | [0050-powx-n](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0258-add-digits) |
+| [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -80,6 +81,7 @@ Daily LeetCode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
+| [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -106,6 +108,7 @@ Daily LeetCode Problems
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0461-hamming-distance) |
+| [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
 # Design
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Daily LeetCode Problems
 # Game Theory
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
@@ -304,3 +308,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
+# Brainteaser
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
