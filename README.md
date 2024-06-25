@@ -61,6 +61,7 @@ Daily LeetCode Problems
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Recursion
 |  |
@@ -83,6 +84,7 @@ Daily LeetCode Problems
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1127-last-stone-weight) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # String
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Daily LeetCode Problems
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Data Stream
 |  |
 | ------- |
@@ -279,19 +283,23 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Topological Sort
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Memoization
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Game Theory
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Interactive
 |  |
 | ------- |
