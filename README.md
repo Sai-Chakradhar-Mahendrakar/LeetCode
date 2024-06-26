@@ -62,6 +62,7 @@ Daily LeetCode Problems
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1522-stone-game-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1522-stone-game-iii) |
 | [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Recursion
@@ -86,6 +87,7 @@ Daily LeetCode Problems
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1127-last-stone-weight) |
+| [1522-stone-game-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1522-stone-game-iii) |
 | [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Two Pointers
 |  |
@@ -239,6 +241,7 @@ Daily LeetCode Problems
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1522-stone-game-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1522-stone-game-iii) |
 | [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Data Stream
 |  |
@@ -303,6 +306,7 @@ Daily LeetCode Problems
 | [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [0873-guess-the-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0873-guess-the-word) |
 | [0949-cat-and-mouse](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0949-cat-and-mouse) |
+| [1522-stone-game-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1522-stone-game-iii) |
 | [1727-cat-and-mouse-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1727-cat-and-mouse-ii) |
 # Interactive
 |  |
