@@ -316,3 +316,10 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0828-chalkboard-xor-game) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0180-consecutive-numbers) |
+<!---LeetCode Topics End-->
