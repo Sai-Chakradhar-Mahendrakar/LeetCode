@@ -322,4 +322,5 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0180-consecutive-numbers) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
