@@ -344,12 +344,14 @@ Daily LeetCode Problems
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -369,5 +371,10 @@ Daily LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
