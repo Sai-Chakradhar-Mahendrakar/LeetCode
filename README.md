@@ -323,4 +323,5 @@ Daily LeetCode Problems
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0180-consecutive-numbers) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1942-primary-department-for-each-employee](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
