@@ -325,4 +325,16 @@ Daily LeetCode Problems
 | [1278-product-price-at-a-given-date](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1942-primary-department-for-each-employee](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1942-primary-department-for-each-employee) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
