@@ -325,6 +325,7 @@ Daily LeetCode Problems
 | [1278-product-price-at-a-given-date](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1942-primary-department-for-each-employee](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1942-primary-department-for-each-employee) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Array
 |  |
 | ------- |
