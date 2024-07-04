@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // dp[idx]=min(dp[idx+1],dp[idx+2])+cost[idx]
     vector<int> memo;
     int dp(vector<int>& cost, int idx){
         if(idx>=cost.size()){
