@@ -328,6 +328,7 @@ Daily LeetCode Problems
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1480-movie-rating) |
+| [1811-fix-names-in-a-table](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1942-primary-department-for-each-employee](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Array
