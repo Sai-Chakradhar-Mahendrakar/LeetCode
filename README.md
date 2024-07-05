@@ -356,6 +356,7 @@ Daily LeetCode Problems
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
@@ -381,12 +382,14 @@ Daily LeetCode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 ## String
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
+| [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 ## Stack
