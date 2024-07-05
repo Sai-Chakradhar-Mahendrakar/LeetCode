@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+SELECT 
+    USER_ID,
+    CONCAT(UPPER(LEFT(NAME,1)), LOWER(RIGHT(NAME, LENGTH(NAME)-1))) AS NAME
+FROM USERS
+ORDER BY USER_ID
