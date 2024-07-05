@@ -322,6 +322,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1278-product-price-at-a-given-date) |
