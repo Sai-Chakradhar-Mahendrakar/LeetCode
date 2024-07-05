@@ -321,6 +321,7 @@ Daily LeetCode Problems
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
