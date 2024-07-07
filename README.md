@@ -422,6 +422,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
+| [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 ## Memoization
 |  |
 | ------- |
@@ -439,6 +440,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
 | ------- |
