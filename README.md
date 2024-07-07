@@ -351,6 +351,7 @@ Daily LeetCode Problems
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Divide and Conquer
 |  |
@@ -371,6 +372,7 @@ Daily LeetCode Problems
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 ## Greedy
 |  |
 | ------- |
