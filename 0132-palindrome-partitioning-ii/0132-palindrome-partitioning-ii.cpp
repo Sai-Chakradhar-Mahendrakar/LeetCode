@@ -26,7 +26,7 @@ public:
         }
 
         ans+=1;
-        return ans;
+        return memo[idx]=ans;
     }
 
     int minCut(string s) {
