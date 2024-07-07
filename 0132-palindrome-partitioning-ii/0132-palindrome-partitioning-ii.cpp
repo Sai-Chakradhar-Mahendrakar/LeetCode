@@ -21,11 +21,10 @@ public:
         int ans=INT_MAX;
         for(int j=idx;j<s.size();j++){
             if(isPalindrome(s, idx, j)){
-                ans = min(ans, dp(s,j+1));
+                ans = min(ans, dp(s,j+1)+1);
             }
         }
 
-        ans+=1;
         return memo[idx]=ans;
     }
 
