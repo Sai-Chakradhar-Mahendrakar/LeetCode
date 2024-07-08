@@ -355,6 +355,7 @@ Daily LeetCode Problems
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Divide and Conquer
 |  |
@@ -423,6 +424,7 @@ Daily LeetCode Problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -441,6 +443,7 @@ Daily LeetCode Problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -449,4 +452,12 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
