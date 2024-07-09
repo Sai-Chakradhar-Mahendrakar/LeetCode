@@ -4,20 +4,19 @@ public:
         int n = customers.size();
 
         vector<int> cT(n,0);
-        cT[0]=customers[0][0]+customers[0][1];
+        int prev,curr;
+        curr=prev=customers[0][0]+customers[0][1];
+        double sum=(curr-customers[0][0]);
 
         for(int i=1;i<n;i++){
-            if(cT[i-1]<customers[i][0]){
-                cT[i]=customers[i][1]+customers[i][0];
+            if(prev<customers[i][0]){
+                curr=customers[i][1]+customers[i][0];
             }
             else{
-                cT[i]=cT[i-1]+customers[i][1];
+                curr=prev+customers[i][1];
             }
-        }
-
-        double sum=0;
-        for(int i=0;i<n;i++){
-            sum+=(cT[i]-customers[i][0]);
+            prev = curr;
+            sum+=(curr-customers[i][0]);
         }
 
         return sum/n;
