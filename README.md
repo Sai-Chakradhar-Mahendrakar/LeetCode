@@ -392,6 +392,7 @@ Daily LeetCode Problems
 | [0806-domino-and-tromino-tiling](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -439,6 +440,7 @@ Daily LeetCode Problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
@@ -447,6 +449,7 @@ Daily LeetCode Problems
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
