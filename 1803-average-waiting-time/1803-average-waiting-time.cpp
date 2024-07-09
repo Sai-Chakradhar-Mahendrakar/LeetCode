@@ -3,7 +3,6 @@ public:
     double averageWaitingTime(vector<vector<int>>& customers) {
         int n = customers.size();
 
-        vector<int> cT(n,0);
         int prev,curr;
         curr=prev=customers[0][0]+customers[0][1];
         double sum=(curr-customers[0][0]);
