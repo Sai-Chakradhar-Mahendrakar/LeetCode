@@ -385,6 +385,7 @@ Daily LeetCode Problems
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -449,6 +450,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
@@ -501,4 +503,8 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
