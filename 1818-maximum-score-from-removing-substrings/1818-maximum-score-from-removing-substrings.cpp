@@ -1,48 +1,43 @@
-#include <stack>
-#include <string>
-
 class Solution {
 public:
     int maximumGain(std::string s, int x, int y) {
-        // Prioritize the higher scoring pair
+        // Define the priority of pairs based on their scores
         char firstChar = x > y ? 'a' : 'b';
         char secondChar = x > y ? 'b' : 'a';
-        int firstScore = std::max(x, y);
-        int secondScore = std::min(x, y);
+        int firstScore = max(x, y);
+        int secondScore = min(x, y);
 
+        // Calculate total score by removing pairs
         int totalScore = 0;
-        std::stack<char> st1;
-        std::string remainingString;
-
-        // First pass: remove the higher priority pairs
-        for (char c : s) {
-            if (!st1.empty() && st1.top() == firstChar && c == secondChar) {
-                st1.pop();
-                totalScore += firstScore;
-            } else {
-                st1.push(c);
-            }
-        }
-
-        // Collect remaining characters
-        while (!st1.empty()) {
-            remainingString += st1.top();
-            st1.pop();
-        }
-
-        // Reverse to maintain original order
-        std::reverse(remainingString.begin(), remainingString.end());
-
-        // Second pass: remove the lower priority pairs
-        for (char c : remainingString) {
-            if (!st1.empty() && st1.top() == secondChar && c == firstChar) {
-                st1.pop();
-                totalScore += secondScore;
-            } else {
-                st1.push(c);
-            }
-        }
+        totalScore += removePairs(s, firstChar, secondChar, firstScore);
+        totalScore += removePairs(s, secondChar, firstChar, secondScore);
 
         return totalScore;
+    }
+
+private:
+    int removePairs(std::string& s, char firstChar, char secondChar, int score) {
+        stack<char> st;
+        int pairsCount = 0;
+
+        for (char c : s) {
+            if (!st.empty() && st.top() == firstChar && c == secondChar) {
+                st.pop();
+                pairsCount++;
+            } else {
+                st.push(c);
+            }
+        }
+
+        // Reconstruct the remaining string after removing pairs
+        string remaining;
+        while (!st.empty()) {
+            remaining += st.top();
+            st.pop();
+        }
+        reverse(remaining.begin(), remaining.end());
+        s = remaining;
+
+        return pairsCount * score;
     }
 };
