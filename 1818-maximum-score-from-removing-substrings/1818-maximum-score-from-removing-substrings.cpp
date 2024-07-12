@@ -30,12 +30,13 @@ private:
         }
 
         // Reconstruct the remaining string after removing pairs
-        s="";
+        string remaining;
         while (!st.empty()) {
-            s += st.top();
+            remaining += st.top();
             st.pop();
         }
-        reverse(s.begin(), s.end());
+        reverse(remaining.begin(), remaining.end());
+        s = remaining;
 
         return pairsCount * score;
     }
