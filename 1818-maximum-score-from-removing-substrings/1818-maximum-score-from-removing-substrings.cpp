@@ -4,8 +4,8 @@ public:
         // Define the priority of pairs based on their scores
         char firstChar = x > y ? 'a' : 'b';
         char secondChar = x > y ? 'b' : 'a';
-        int firstScore = std::max(x, y);
-        int secondScore = std::min(x, y);
+        int firstScore = max(x, y);
+        int secondScore = min(x, y);
 
         // Calculate total score by removing pairs
         int totalScore = 0;
@@ -17,7 +17,7 @@ public:
 
 private:
     int removePairs(std::string& s, char firstChar, char secondChar, int score) {
-        std::stack<char> st;
+        stack<char> st;
         int pairsCount = 0;
 
         for (char c : s) {
@@ -30,12 +30,12 @@ private:
         }
 
         // Reconstruct the remaining string after removing pairs
-        std::string remaining;
+        string remaining;
         while (!st.empty()) {
             remaining += st.top();
             st.pop();
         }
-        std::reverse(remaining.begin(), remaining.end());
+        reverse(remaining.begin(), remaining.end());
         s = remaining;
 
         return pairsCount * score;
