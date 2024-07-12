@@ -1,43 +1,48 @@
+#include <stack>
+#include <string>
+
 class Solution {
 public:
     int maximumGain(std::string s, int x, int y) {
-        // Define the priority of pairs based on their scores
+        // Prioritize the higher scoring pair
         char firstChar = x > y ? 'a' : 'b';
         char secondChar = x > y ? 'b' : 'a';
-        int firstScore = max(x, y);
-        int secondScore = min(x, y);
+        int firstScore = std::max(x, y);
+        int secondScore = std::min(x, y);
 
-        // Calculate total score by removing pairs
         int totalScore = 0;
-        totalScore += removePairs(s, firstChar, secondChar, firstScore);
-        totalScore += removePairs(s, secondChar, firstChar, secondScore);
+        std::stack<char> st1;
+        std::string remainingString;
 
-        return totalScore;
-    }
-
-private:
-    int removePairs(std::string& s, char firstChar, char secondChar, int score) {
-        stack<char> st;
-        int pairsCount = 0;
-
+        // First pass: remove the higher priority pairs
         for (char c : s) {
-            if (!st.empty() && st.top() == firstChar && c == secondChar) {
-                st.pop();
-                pairsCount++;
+            if (!st1.empty() && st1.top() == firstChar && c == secondChar) {
+                st1.pop();
+                totalScore += firstScore;
             } else {
-                st.push(c);
+                st1.push(c);
             }
         }
 
-        // Reconstruct the remaining string after removing pairs
-        string remaining;
-        while (!st.empty()) {
-            remaining += st.top();
-            st.pop();
+        // Collect remaining characters
+        while (!st1.empty()) {
+            remainingString += st1.top();
+            st1.pop();
         }
-        reverse(remaining.begin(), remaining.end());
-        s = remaining;
 
-        return pairsCount * score;
+        // Reverse to maintain original order
+        std::reverse(remainingString.begin(), remainingString.end());
+
+        // Second pass: remove the lower priority pairs
+        for (char c : remainingString) {
+            if (!st1.empty() && st1.top() == secondChar && c == firstChar) {
+                st1.pop();
+                totalScore += secondScore;
+            } else {
+                st1.push(c);
+            }
+        }
+
+        return totalScore;
     }
 };
