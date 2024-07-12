@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maximumGain(std::string s, int x, int y) {
+    int maximumGain(string s, int x, int y) {
         // Define the priority of pairs based on their scores
         char firstChar = x > y ? 'a' : 'b';
         char secondChar = x > y ? 'b' : 'a';
@@ -16,7 +16,7 @@ public:
     }
 
 private:
-    int removePairs(std::string& s, char firstChar, char secondChar, int score) {
+    int removePairs(string& s, char firstChar, char secondChar, int score) {
         stack<char> st;
         int pairsCount = 0;
 
