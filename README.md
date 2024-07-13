@@ -369,6 +369,7 @@ Daily LeetCode Problems
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -428,6 +429,7 @@ Daily LeetCode Problems
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
+| [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -452,6 +454,7 @@ Daily LeetCode Problems
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -486,6 +489,7 @@ Daily LeetCode Problems
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
 | ------- |
