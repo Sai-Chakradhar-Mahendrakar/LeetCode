@@ -352,6 +352,7 @@ Daily LeetCode Problems
 | [0134-gas-station](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -473,6 +474,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -509,5 +511,14 @@ Daily LeetCode Problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
