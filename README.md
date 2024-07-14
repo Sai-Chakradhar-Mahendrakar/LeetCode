@@ -421,6 +421,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
+| [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -428,6 +429,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
@@ -443,6 +445,7 @@ Daily LeetCode Problems
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -451,6 +454,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
