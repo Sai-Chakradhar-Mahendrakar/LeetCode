@@ -26,38 +26,40 @@ private:
             }
         }
 
-        q.push({-1, -1});
+        vector<vector<int>> dist(r, vector<int>(c,0));
+        if(fresh==0){
+            return 0;
+        }
 
-        while (!q.empty()) {
-            int row = q.front().first;
-            int col = q.front().second;
+        while(!q.empty()){
+            pair<int, int> pr = q.front();
+            int x = pr.first;
+            int y = pr.second;
+
             q.pop();
 
-            if (row == -1) {
-                ans++;
-                if (!q.empty()) {
-                    q.push({-1, -1});
-                }
-            } else {
-                for (int i = 0; i < 4; i++) {
-                    int nx = row + dx[i];
-                    int ny = col + dy[i];
+            for(int i=0;i<4;i++){
+                int xx = x+dx[i];
+                int yy = y+dy[i];
 
-                    if (nx < 0 or nx >= r or ny < 0 or ny >= c) {
-                        continue;
-                    } else if (grid[nx][ny] == 1) {
-                        fresh--;
-                        grid[nx][ny] = 2;
-                        q.push({nx, ny});
-                    }
+                if(xx>=0 and xx<r and yy>=0 and yy<c and grid[xx][yy]==1){
+                    q.push({xx, yy});
+                    grid[xx][yy]=2;
+                    dist[xx][yy]= dist[x][y]+1;
                 }
             }
         }
-
-        if (fresh == 0) {
-            return ans;
+        int maxi=-1;
+        
+        for(int i=0;i<r;i++)
+        {
+            for(int j=0;j<c;j++){
+                if(grid[i][j]==1)
+                    return -1;
+                maxi = max(maxi , dist[i][j]);
+            }
+            
         }
-
-        return -1;
+        return maxi;
     }
 };
