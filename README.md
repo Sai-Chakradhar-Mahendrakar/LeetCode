@@ -466,6 +466,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -509,6 +510,7 @@ Daily LeetCode Problems
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -558,4 +560,8 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
