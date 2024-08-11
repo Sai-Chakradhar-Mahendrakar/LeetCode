@@ -342,6 +342,7 @@ Daily LeetCode Problems
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
@@ -441,6 +442,7 @@ Daily LeetCode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
