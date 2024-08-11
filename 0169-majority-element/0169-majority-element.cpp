@@ -1,18 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for(auto x: nums){
-            mp[x]++;
-        }
-        int maxCnt=INT_MIN;
-        int maxInd;
-        for(auto x:mp){
-            auto freq = x.second;
-            auto num = x.first;
-            if(maxCnt<freq){
-                maxCnt = freq;
-                maxInd = num;
+        int maxCnt=0;
+        int maxInd=0;
+        for(int i=0;i<nums.size();i++){
+            if(maxCnt==0){
+                maxInd = nums[i];
+            }
+
+            if(nums[i]==maxInd){
+                maxCnt++;
+            }
+
+            if(nums[i]!=maxInd){
+                maxCnt--;
             }
         }
         return maxInd;
