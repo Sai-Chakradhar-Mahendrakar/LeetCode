@@ -352,6 +352,7 @@ Daily LeetCode Problems
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
@@ -392,6 +393,7 @@ Daily LeetCode Problems
 | [0091-decode-ways](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
