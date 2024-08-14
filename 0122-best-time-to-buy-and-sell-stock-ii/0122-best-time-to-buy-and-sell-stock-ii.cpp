@@ -26,7 +26,16 @@ public:
         return ans;
     }
     int maxProfit(vector<int>& prices) {
-        memo.resize(prices.size(), vector<int>(2,-1));
-        return dp(prices, true, 0);
+        // memo.resize(prices.size(), vector<int>(2,-1));
+        // return dp(prices, true, 0);
+        int max=0;
+        int start = prices[0];
+        for(int i=1;i<prices.size();i++){
+            if(start<prices[i]){
+                max += prices[i] - start;
+            }
+            start = prices[i];
+        }
+        return max;
     }
 };
