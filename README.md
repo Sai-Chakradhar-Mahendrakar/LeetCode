@@ -361,6 +361,7 @@ Daily LeetCode Problems
 | [0198-house-robber](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -443,6 +444,7 @@ Daily LeetCode Problems
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
@@ -586,4 +588,8 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
