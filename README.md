@@ -446,6 +446,7 @@ Daily LeetCode Problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -493,6 +494,7 @@ Daily LeetCode Problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -646,5 +648,6 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
