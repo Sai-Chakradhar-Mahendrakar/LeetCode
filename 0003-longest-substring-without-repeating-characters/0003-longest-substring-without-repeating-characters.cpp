@@ -4,7 +4,7 @@ public:
         int l=0;
         int r=0;
         int win=0;
-        int maxWin=INT_MIN;
+        int maxWin=0;
         unordered_map<char, int> mp;
 
         while(r<s.size()){
@@ -16,7 +16,7 @@ public:
             }
 
             mp[ch]=r;
-            win = r-l+1;
+            win++;
             r++;
 
             if(win>maxWin){
