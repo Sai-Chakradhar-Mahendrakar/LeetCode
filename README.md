@@ -342,6 +342,7 @@ Daily LeetCode Problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -424,6 +425,7 @@ Daily LeetCode Problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -461,6 +463,7 @@ Daily LeetCode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
