@@ -10,3 +10,9 @@ public:
         return ans;
     }
 };
+
+static const auto _____ = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    return nullptr;
+}();
