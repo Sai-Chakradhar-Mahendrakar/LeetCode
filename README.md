@@ -465,6 +465,7 @@ Daily LeetCode Problems
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -480,6 +481,7 @@ Daily LeetCode Problems
 | [0058-length-of-last-word](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
