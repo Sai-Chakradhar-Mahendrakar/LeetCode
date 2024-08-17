@@ -407,6 +407,7 @@ Daily LeetCode Problems
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -468,6 +469,7 @@ Daily LeetCode Problems
 | [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 ## String
@@ -485,6 +487,7 @@ Daily LeetCode Problems
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
