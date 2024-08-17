@@ -1,31 +1,29 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int i=0,j=0;
-        int start_win=-1;
-        int win_size=0;
-        int lar_win=0;
+        int l=0;
+        int r=0;
+        int win=0;
+        int maxWin=INT_MIN;
+        unordered_map<char, int> mp;
 
-        unordered_map<char,int>m;
-        while(j<s.length()){
-            char ch = s[j];
-            //present
-            if(m.count(ch) and m[ch]>=i){
-                i = m[ch]+1;
-                win_size=j-i;
+        while(r<s.size()){
+            char ch = s[r];
+
+            if(mp.count(ch) and mp[ch]>=l){
+                l = mp[ch]+1;
+                win = r-l;
             }
 
-            //not present
-            m[ch]=j;
-            win_size++;
-            j++;
+            mp[ch]=r;
+            win = r-l+1;
+            r++;
 
-            if(win_size>lar_win){
-                lar_win = win_size;
-                start_win=i;
+            if(win>maxWin){
+                maxWin = win;
             }
         }
-        return lar_win;
-        // (s.substr(start_win,lar_win)).length();
+        return maxWin;
+
     }
 };
