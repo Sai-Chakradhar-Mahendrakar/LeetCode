@@ -549,6 +549,7 @@ Daily LeetCode Problems
 | [0013-roman-to-integer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
