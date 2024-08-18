@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         
         const int cnt = 9;
         bool row[cnt][cnt] = {false};
