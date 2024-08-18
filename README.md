@@ -353,6 +353,7 @@ Daily LeetCode Problems
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0118-pascals-triangle) |
@@ -466,6 +467,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
@@ -483,6 +485,7 @@ Daily LeetCode Problems
 | [0027-remove-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
