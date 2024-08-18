@@ -6,7 +6,7 @@ public:
         cout.tie(0);
 
         int r=matrix.size();
-        int c=matrix.size();
+        int c=matrix[0].size();
 
         for(int i=0;i<r;i++){
             for(int j=0;j<i;j++){
