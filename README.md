@@ -356,6 +356,7 @@ Daily LeetCode Problems
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -459,6 +460,7 @@ Daily LeetCode Problems
 | [0012-integer-to-roman](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
@@ -573,6 +575,7 @@ Daily LeetCode Problems
 | [0036-valid-sudoku](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1036-rotting-oranges) |
