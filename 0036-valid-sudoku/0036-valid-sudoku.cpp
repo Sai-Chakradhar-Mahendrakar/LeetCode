@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
+        
         const int cnt = 9;
         bool row[cnt][cnt] = {false};
         bool col[cnt][cnt] = {false};
