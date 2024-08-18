@@ -351,6 +351,7 @@ Daily LeetCode Problems
 | [0036-valid-sudoku](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0055-jump-game) |
@@ -544,6 +545,7 @@ Daily LeetCode Problems
 | [0009-palindrome-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
@@ -569,6 +571,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
