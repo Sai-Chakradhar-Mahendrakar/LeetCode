@@ -1,6 +1,10 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         vector<vector<string>> res;
         unordered_map<string, vector<string>> mp;
 
