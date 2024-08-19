@@ -376,6 +376,7 @@ Daily LeetCode Problems
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0283-move-zeroes) |
@@ -467,6 +468,7 @@ Daily LeetCode Problems
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -481,6 +483,7 @@ Daily LeetCode Problems
 | [0075-sort-colors](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -672,6 +675,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
