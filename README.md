@@ -472,6 +472,7 @@ Daily LeetCode Problems
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
@@ -516,6 +517,7 @@ Daily LeetCode Problems
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -569,6 +571,7 @@ Daily LeetCode Problems
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
