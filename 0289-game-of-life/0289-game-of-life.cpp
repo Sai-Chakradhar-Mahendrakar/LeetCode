@@ -1,6 +1,10 @@
 class Solution {
 public:
     void gameOfLife(vector<vector<int>>& board) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+
         int n = board.size();
         int m = board[0].size();
 
