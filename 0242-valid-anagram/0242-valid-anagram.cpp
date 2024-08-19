@@ -1,20 +1,23 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.length()!=t.length()){
+        if(s.size()!=t.size()){
             return false;
         }
 
         int h[26]={0};
-        for(auto i:s){
-            h[i-'a']++;
+        
+        for(auto ch:s){
+            h[ch-'a']++;
         }
-        for(auto i:t){
-            int x = --h[i-'a'];
+
+        for(auto ch:t){
+            int x = --h[ch-'a'];
             if(x<0){
                 return false;
             }
         }
+
         return true;
     }
 };
