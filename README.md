@@ -479,6 +479,7 @@ Daily LeetCode Problems
 | [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -547,6 +548,7 @@ Daily LeetCode Problems
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
