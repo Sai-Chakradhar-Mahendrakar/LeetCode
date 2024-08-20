@@ -1,6 +1,10 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         vector<vector<int>> res;
         intervals.push_back(newInterval);
 
