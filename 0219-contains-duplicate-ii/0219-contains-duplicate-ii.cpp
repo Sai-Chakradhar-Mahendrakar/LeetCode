@@ -1,6 +1,10 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+
         int n = nums.size();
         unordered_map<int, int> mp;
 
