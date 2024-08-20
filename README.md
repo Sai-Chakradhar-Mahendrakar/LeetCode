@@ -475,6 +475,7 @@ Daily LeetCode Problems
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
@@ -547,6 +548,7 @@ Daily LeetCode Problems
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
