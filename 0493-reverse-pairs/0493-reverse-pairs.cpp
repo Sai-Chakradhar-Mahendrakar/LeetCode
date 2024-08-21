@@ -2,6 +2,10 @@ class Solution {
     vector<int> temp;
 public:
     int reversePairs(vector<int>& nums) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cin.tie(0);
+        
         temp.resize(nums.size(), 0);
         return mergeSort(nums, 0, nums.size()-1);
     }
