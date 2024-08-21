@@ -466,6 +466,7 @@ Daily LeetCode Problems
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Hash Table
@@ -566,6 +567,7 @@ Daily LeetCode Problems
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -575,6 +577,7 @@ Daily LeetCode Problems
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
