@@ -27,8 +27,6 @@ public:
                 return i-m+1;
             }
         }
-
         return -1;
-        
     }
 };
