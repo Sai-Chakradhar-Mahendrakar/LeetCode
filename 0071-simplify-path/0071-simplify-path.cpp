@@ -1,6 +1,10 @@
 class Solution {
 public:
     string simplifyPath(string path) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+
         
         stack<string> st;
         string res;
@@ -10,7 +14,7 @@ public:
             if(path[i] == '/')    
                 continue;
             string temp;
-            
+
 			// iterate till we doesn't traverse the whole string and doesn't encounter the last /
             while(i < path.size() && path[i] != '/')
             {
