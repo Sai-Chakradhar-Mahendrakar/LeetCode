@@ -1,6 +1,10 @@
 class Solution {
 public:
     string largestOddNumber(string num) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+
         int n=num.size();
         if((num[n-1]-'0')%2){
             return num;
