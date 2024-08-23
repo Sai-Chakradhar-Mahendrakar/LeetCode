@@ -4,7 +4,7 @@ public:
         ios::sync_with_stdio(0);
         cin.tie(0);
         cout.tie(0);
-        
+
         int ans=0;
 
         for(int i=0;i<s.size();i++){
@@ -15,10 +15,10 @@ public:
                 int minFreq = INT_MAX;
                 int maxFreq = INT_MIN;
 
-                for(int k=0;k<26;k++){
-                    if(mp[k]>0){
-                        maxFreq = max(maxFreq, mp[k]);
-                        minFreq = min(minFreq, mp[k]);
+                for(auto x:mp){
+                    if(x>0){
+                        maxFreq = max(maxFreq, x);
+                        minFreq = min(minFreq, x);
                     }
                 }
                 ans+=(maxFreq-minFreq);
