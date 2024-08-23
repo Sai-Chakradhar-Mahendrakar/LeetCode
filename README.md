@@ -421,6 +421,7 @@ Daily LeetCode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
@@ -523,6 +524,7 @@ Daily LeetCode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0018-4sum) |
@@ -548,6 +550,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0012-integer-to-roman) |
