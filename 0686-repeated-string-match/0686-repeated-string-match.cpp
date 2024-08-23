@@ -1,6 +1,10 @@
 class Solution {
 public:
     int repeatedStringMatch(string A, string B) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         if (A == B) {
             return 1;
         }
