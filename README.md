@@ -681,6 +681,7 @@ Daily LeetCode Problems
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -788,6 +789,7 @@ Daily LeetCode Problems
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
