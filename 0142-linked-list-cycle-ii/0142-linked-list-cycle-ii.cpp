@@ -21,7 +21,7 @@ public:
             }
         }
 
-        if(!(fast and fast->next)){
+        if(!(fast && fast->next)){
             return NULL;
         }
 
