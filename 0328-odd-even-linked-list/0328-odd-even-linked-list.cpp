@@ -14,7 +14,7 @@ public:
         ios::sync_with_stdio(0);
         cin.tie(0);
         cout.tie(0);
-        
+
         if (!head || !head->next){
             return head;
         }
@@ -23,7 +23,7 @@ public:
         ListNode* even=head->next;
         ListNode* evenHead=even;
 
-        while(even!=NULL && even->next!=NULL){
+        while(even && even->next){
             odd->next=even->next;
             odd=odd->next;
             even->next=odd->next;
