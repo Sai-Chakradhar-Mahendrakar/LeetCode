@@ -21,7 +21,7 @@ public:
             }
         }
 
-        if(not(fast and fast->next)){
+        if(!(fast and fast->next)){
             return NULL;
         }
 
