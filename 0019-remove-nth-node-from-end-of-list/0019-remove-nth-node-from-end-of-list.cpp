@@ -11,6 +11,10 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+
         if(head->next==NULL){
             return NULL;
         }
