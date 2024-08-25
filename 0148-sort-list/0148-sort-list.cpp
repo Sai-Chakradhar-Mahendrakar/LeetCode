@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#pragma GCC optimize("O3, unroll-loops")
+
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
