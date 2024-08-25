@@ -11,42 +11,38 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (head == NULL) {
+        if(head==nullptr || k==1){
+           return head;
+        }
+        
+        int cnt = 0;
+        ListNode* node = head;
+        while (node != nullptr && cnt < k) {
+            node = node->next;
+            cnt++;
+        }
+
+        if (cnt < k) {
             return head;
         }
         
-        ListNode* cur = head;
-        int cnt = 0;
+        cnt=0;
+        ListNode* prev=NULL;
+        ListNode* cur=head;
+        ListNode* temp;
         
-        // First, check if there are at least k nodes left in the linked list
-        while (cur != NULL && cnt < k) {
-            cur = cur->next;
+        while(cur!=NULL and cnt<k){
+            temp = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = temp;
             cnt++;
         }
         
-        // If we have k nodes, then we proceed to reverse
-        if (cnt == k) {
-            cur = head;
-            ListNode* prev = NULL;
-            ListNode* temp = NULL;
-            
-            // Reverse k nodes
-            for (int i = 0; i < k; i++) {
-                temp = cur->next;
-                cur->next = prev;
-                prev = cur;
-                cur = temp;
-            }
-            
-            // Now head is the last node in the reversed k group
-            // Its next should point to the result of the next k group reversals
-            head->next = reverseKGroup(cur, k);
-            
-            // prev is the new head of the reversed k-group
-            return prev;
-        } else {
-            // If there are less than k nodes left, return head as is (no reversal)
-            return head;
+        if(temp!=NULL){
+            head->next=reverseKGroup(temp,k);
         }
+        
+        return prev;
     }
 };
