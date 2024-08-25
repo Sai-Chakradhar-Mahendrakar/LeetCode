@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
+        
         if(head==nullptr || k==1){
            return head;
         }
@@ -27,11 +28,11 @@ public:
         }
         
         cnt=0;
-        ListNode* prev=NULL;
+        ListNode* prev=nullptr;
         ListNode* cur=head;
         ListNode* temp;
         
-        while(cur!=NULL and cnt<k){
+        while(cur!=nullptr and cnt<k){
             temp = cur->next;
             cur->next = prev;
             prev = cur;
@@ -39,7 +40,7 @@ public:
             cnt++;
         }
         
-        if(temp!=NULL){
+        if(temp!=nullptr){
             head->next=reverseKGroup(temp,k);
         }
         
