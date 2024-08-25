@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        if(!head || !head->next){
+        if(head==NULL || head->next==NULL){
             return NULL;
         }
 
