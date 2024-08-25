@@ -13,6 +13,10 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         if(head==NULL or head->next==NULL){
             return head;
         }
