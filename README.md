@@ -696,6 +696,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
@@ -808,6 +809,7 @@ Daily LeetCode Problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0148-sort-list) |
