@@ -11,6 +11,10 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         if(head==NULL || head->next==NULL){
             return NULL;
         }
@@ -25,6 +29,5 @@ public:
 
         slow->next=slow->next->next;
         return head;
-
     }
 };
