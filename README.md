@@ -416,6 +416,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
@@ -513,6 +514,7 @@ Daily LeetCode Problems
 | [0056-merge-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
@@ -543,6 +545,7 @@ Daily LeetCode Problems
 | [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
@@ -782,6 +785,7 @@ Daily LeetCode Problems
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -801,6 +805,7 @@ Daily LeetCode Problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
