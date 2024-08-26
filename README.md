@@ -630,6 +630,7 @@ Daily LeetCode Problems
 | [0009-palindrome-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -760,6 +761,7 @@ Daily LeetCode Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
