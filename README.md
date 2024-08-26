@@ -644,6 +644,7 @@ Daily LeetCode Problems
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -704,6 +705,7 @@ Daily LeetCode Problems
 | [0234-palindrome-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
