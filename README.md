@@ -381,6 +381,7 @@ Daily LeetCode Problems
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -637,6 +638,7 @@ Daily LeetCode Problems
 | [0172-factorial-trailing-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
@@ -833,4 +835,12 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
