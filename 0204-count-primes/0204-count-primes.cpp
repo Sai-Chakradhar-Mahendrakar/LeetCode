@@ -4,9 +4,10 @@ public:
         // Mark 1 and 0 as not prime
         sieve[0] = 0;
         sieve[1] = 0;
+        sieve[2] = 1;
 
         // Initially mark all numbers as prime
-        for (int i = 2; i <= N; i++) {
+        for (int i = 3; i <= N; i += 2) {
             sieve[i] = 1;
         }
 
@@ -27,7 +28,7 @@ public:
             return 0;
         }
 
-        int sieve[n + 1];  // Create sieve array
+        int sieve[n + 1]; // Create sieve array
         primeSieve(sieve, n);
 
         int cnt = 0;
