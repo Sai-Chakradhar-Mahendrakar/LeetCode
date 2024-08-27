@@ -1,3 +1,5 @@
+#pragma GCC optimize("O3, unroll-loops")
+
 class Solution {
 public:
     void primeSieve(int sieve[], int N) {
@@ -23,6 +25,10 @@ public:
     }
 
     int countPrimes(int n) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+
         // Handle the case where n is less than 2
         if (n < 2) {
             return 0;
