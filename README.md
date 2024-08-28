@@ -613,6 +613,7 @@ Daily LeetCode Problems
 | [0071-simplify-path](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -713,6 +714,7 @@ Daily LeetCode Problems
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Indexed Tree
 |  |
@@ -843,4 +845,8 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
