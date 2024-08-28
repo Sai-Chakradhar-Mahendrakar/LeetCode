@@ -614,6 +614,7 @@ Daily LeetCode Problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
@@ -715,6 +716,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Indexed Tree
 |  |
@@ -849,4 +851,5 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
