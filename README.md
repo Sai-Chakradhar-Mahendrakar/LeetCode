@@ -398,6 +398,7 @@ Daily LeetCode Problems
 | [0485-max-consecutive-ones](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -619,6 +620,7 @@ Daily LeetCode Problems
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -793,6 +795,7 @@ Daily LeetCode Problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## String Matching
 |  |
 | ------- |
