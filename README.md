@@ -415,6 +415,7 @@ Daily LeetCode Problems
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
@@ -634,6 +635,7 @@ Daily LeetCode Problems
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -803,6 +805,7 @@ Daily LeetCode Problems
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## String Matching
 |  |
 | ------- |
