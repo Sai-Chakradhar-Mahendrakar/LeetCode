@@ -1,6 +1,10 @@
 class Solution {
 public:
     int search(vector<int>& arr, int target) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         int s=0;
         int e=arr.size()-1;
 
