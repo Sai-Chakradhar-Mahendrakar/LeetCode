@@ -637,6 +637,7 @@ Daily LeetCode Problems
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -818,6 +819,7 @@ Daily LeetCode Problems
 | [0402-remove-k-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## String Matching
@@ -885,8 +887,13 @@ Daily LeetCode Problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
