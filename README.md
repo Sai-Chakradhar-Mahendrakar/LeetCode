@@ -349,6 +349,7 @@ Daily LeetCode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0045-jump-game-ii) |
@@ -713,6 +714,7 @@ Daily LeetCode Problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
