@@ -5,12 +5,13 @@ public:
         int e=nums.size()-1;
         int ans = nums[0];
         while(s<=e){
-            
+            // Already Sorted
             if(nums[s]<=nums[e]){
                 ans = min(ans, nums[s]);
                 break;
             }
 
+            // Process
             int mid=(s+e)/2;
             if(nums[s]<=nums[mid]){
                 ans = min(ans, nums[s]); 
