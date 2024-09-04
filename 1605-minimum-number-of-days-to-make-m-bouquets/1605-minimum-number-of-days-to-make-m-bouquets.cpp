@@ -1,6 +1,10 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        
         int s=1;
         int e=*max_element(bloomDay.begin(), bloomDay.end());
         int minDays=-1;
