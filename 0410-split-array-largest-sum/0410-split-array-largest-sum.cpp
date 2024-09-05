@@ -1,36 +1,33 @@
 class Solution {
 public:
-    vector<vector<int>> memo;
-    int dp(vector<int>& nums, int k, int idx){
-        if(idx==nums.size()){
-            if(k==0){
-                return 0;
-            }
-            return 1e9;
-        }
-
-        if(k<=0){
-            return 1e9;
-        }
-
-        int &ans = memo[idx][k];
-        if(ans!=-1){
-            return ans;
-        }
-
-        ans=1e9;
-
-        int sum=0;
-        for(int j=idx;j<nums.size();j++){
-            sum+=nums[j];
-            ans = min(ans, max(sum,dp(nums, k-1, j+1)));
-        }
-
-        return ans;
-    }
-
     int splitArray(vector<int>& nums, int k) {
-        memo.resize(nums.size(), vector<int>(k+1,-1));
-        return dp(nums, k, 0);
+        int s=*max_element(nums.begin(), nums.end());
+        int e=accumulate(nums.begin(), nums.end(), 0);
+
+        while(s<=e){
+            int mid=(s+e)/2;
+            if(canSplit(nums, mid)>k){
+                s=mid+1;
+            }
+            else{
+                e=mid-1;
+            }
+        }
+        return s;
+    }
+private:
+    int canSplit(auto& nums, auto mid){
+        int partition=1;
+        int sum=0;
+        for(auto x: nums){
+            if(sum+x<=mid){
+                sum+=x;
+            }
+            else{
+                partition++;
+                sum=x;
+            }
+        }
+        return partition;
     }
 };
