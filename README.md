@@ -434,6 +434,7 @@ Daily LeetCode Problems
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2047-find-a-peak-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -717,6 +718,7 @@ Daily LeetCode Problems
 | [0289-game-of-life](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1036-rotting-oranges) |
+| [2047-find-a-peak-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -754,6 +756,7 @@ Daily LeetCode Problems
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
