@@ -36,7 +36,7 @@ public:
                 }
                 break;
             }
-            else if(x1>x2){
+            else if(x1>x4){
                 e=px-1;
             }
             else{
