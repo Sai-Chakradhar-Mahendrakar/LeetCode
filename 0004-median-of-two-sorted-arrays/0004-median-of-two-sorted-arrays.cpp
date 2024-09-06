@@ -1,41 +1,46 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
-        int m = a.size();
-        int n = b.size();
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int m=nums1.size();
+        int n=nums2.size();
 
         if(m>n){
-            return findMedianSortedArrays(b,a);
+            return findMedianSortedArrays(nums2, nums1);
         }
 
-        int total = m+n;
         int s=0;
         int e=m;
 
-        double res = 0.0;
+        double res=0.0;
 
         while(s<=e){
-            int i=(s+e)/2;
-            int j=(total+1)/2 - i;
+            int px = (s+e)/2; // Mid of nums1
+            int py = (m+n+1)/2 - px; // nums2;
 
-            int left1 = (i > 0) ? a[i - 1] : INT_MIN;
-            int right1 = (i < m) ? a[i] : INT_MAX;
-            int left2 = (j > 0) ? b[j - 1] : INT_MIN;
-            int right2 = (j < n) ? b[j] : INT_MAX;
+            // left half
+            int x1= (px==0) ? INT_MIN: nums1[px-1];
+            int x2= (py==0) ? INT_MIN: nums2[py-1];
 
-             if (left1 <= right2 && left2 <= right1) {
-                // even
-                if (total % 2 == 0) {
-                    res = (max(left1, left2) + min(right1, right2)) / 2.0;
-                // odd
-                } else {
-                    res = max(left1, left2);
+            // Right half
+            int x3= (px==m) ? INT_MAX: nums1[px];
+            int x4= (py==n) ? INT_MAX: nums2[py];
+
+            if(x1<=x4 && x2<=x3){
+                //even
+                if((m+n)%2==0){
+                    res=max(x1, x2)+min(x3, x4);
+                    res/=2.0;
+                } //odd
+                else{
+                    res=max(x1, x2);
                 }
                 break;
-            } else if (left1 > right2) {
-                e = i - 1;
-            } else {
-                s = i + 1;
+            }
+            else if(x1>x2){
+                e=px-1;
+            }
+            else{
+                s=px+1;
             }
         }
         return res;
