@@ -8,7 +8,7 @@ public:
 
         while(s<=e){
             int mid=(s+e)/2;
-            // Flatten 
+            // Flatten index = row * c + col
             int row=mid/c;
             int col=mid%c;
 
