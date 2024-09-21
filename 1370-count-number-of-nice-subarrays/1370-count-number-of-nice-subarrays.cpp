@@ -14,7 +14,7 @@ public:
             }
 
             if(oddCnt>=k){
-                res+=freq[oddCnt-k];
+                res+=freq[oddCnt-k]; // valid Subarr present ending r
             }
 
             freq[oddCnt]++;
