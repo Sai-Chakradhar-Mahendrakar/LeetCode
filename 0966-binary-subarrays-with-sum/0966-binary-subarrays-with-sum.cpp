@@ -1,6 +1,7 @@
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
+        // All Less than or equal to goal are includes
         return atmost(nums, goal)-atmost(nums, goal-1);
     }
 private:
