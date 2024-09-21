@@ -424,6 +424,7 @@ Daily LeetCode Problems
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -753,6 +754,7 @@ Daily LeetCode Problems
 | [0540-single-element-in-a-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -764,6 +766,7 @@ Daily LeetCode Problems
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -875,6 +878,7 @@ Daily LeetCode Problems
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Merge Sort
 |  |
 | ------- |
