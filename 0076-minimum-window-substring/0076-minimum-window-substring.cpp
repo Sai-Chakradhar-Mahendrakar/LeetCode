@@ -8,34 +8,33 @@ public:
             fp[t[i]]++;
         }
 
-        int cnt = 0;
-        int start = 0;
-        int startWin = -1;
-        int win = 0;
-        int minWin = INT_MAX;
+        int cnt=0;
+        int l=0;
+        int r=0;
+        int startWin=-1;
+        int minWin=INT_MAX;
 
-        for(int i=0;i<s.size();i++){
-            char ch = s[i];
+        while(r<s.size()){
+            char ch=s[r];
             fs[ch]++;
 
-            if(fp[ch]!=0 and fs[ch]<=fp[ch]){
+            if(fp[ch]!=0 && fs[ch]<=fp[ch]){
                 cnt++;
             }
 
-            // Overfitting
             if(cnt==t.size()){
-                while(fs[s[start]]>fp[s[start]]){
-                    fs[s[start]]--;
-                    start++;
+                while(fs[s[l]]>fp[s[l]]){
+                    fs[s[l]]--;
+                    l++;
                 }
 
-                win = i-start+1;
-                if(win<minWin){
-                    minWin = win;
-                    startWin = start;
+                if(r-l+1<minWin){
+                    minWin=r-l+1;
+                    startWin=l;
                 }
             }
+            r++;
         }
-        return startWin==-1? "": s.substr(startWin, minWin);
+        return startWin==-1?"":s.substr(startWin, minWin);
     }
 };
