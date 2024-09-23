@@ -7,6 +7,7 @@ public:
 
         while(s<=e){
             int mid=(s+e)/2;
+            // arr[mid] - actual(i) -> No of Missing
             int noMissing=arr[mid]-(mid+1);
 
             if(noMissing<k){
