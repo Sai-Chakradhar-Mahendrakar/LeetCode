@@ -3,6 +3,7 @@ public:
     int splitArray(vector<int>& nums, int k) {
         int s=*max_element(nums.begin(), nums.end());
         int e=accumulate(nums.begin(), nums.end(), 0);
+        int ans=0;
 
         while(s<=e){
             int mid=(s+e)/2;
@@ -10,10 +11,11 @@ public:
                 s=mid+1;
             }
             else{
+                ans=mid;
                 e=mid-1;
             }
         }
-        return s;
+        return ans;
     }
 private:
     int canSplit(auto& nums, auto mid){
