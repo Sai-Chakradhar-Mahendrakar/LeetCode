@@ -415,6 +415,7 @@ Daily LeetCode Problems
 | [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
@@ -507,6 +508,7 @@ Daily LeetCode Problems
 | [0402-remove-k-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
@@ -544,6 +546,7 @@ Daily LeetCode Problems
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
@@ -573,6 +576,7 @@ Daily LeetCode Problems
 | [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
@@ -868,6 +872,7 @@ Daily LeetCode Problems
 | [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting Sort
@@ -924,6 +929,7 @@ Daily LeetCode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
