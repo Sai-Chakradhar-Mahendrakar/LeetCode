@@ -406,6 +406,7 @@ Daily LeetCode Problems
 | [0283-move-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -458,6 +459,7 @@ Daily LeetCode Problems
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -541,6 +543,7 @@ Daily LeetCode Problems
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -576,6 +579,7 @@ Daily LeetCode Problems
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
@@ -875,6 +879,7 @@ Daily LeetCode Problems
 | ------- |
 | [0169-majority-element](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
@@ -934,6 +939,7 @@ Daily LeetCode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
@@ -941,6 +947,7 @@ Daily LeetCode Problems
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
@@ -997,6 +1004,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
