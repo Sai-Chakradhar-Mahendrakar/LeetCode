@@ -3,6 +3,7 @@ public:
     int k;
     priority_queue<int, vector<int>, greater<int>>pq;  // min heap
 
+    // T:O(nlogn) S:O(n)
     KthLargest(int k, vector<int>& nums) {
         this->k = k;
         for(int i=0;i<nums.size();i++){
@@ -14,6 +15,7 @@ public:
         }
     }
     
+    // T:O(logn) S:O(1)
     int add(int val) {
         pq.push(val);
         if(pq.size()>k){
