@@ -5,6 +5,7 @@ public:
 
     MedianFinder() {}
 
+    // T:O(logn)
     void addNum(int num) {
         if (left.empty() || num <= left.top()) {
             left.push(num);
@@ -21,7 +22,7 @@ public:
             right.pop();
         }
     }
-
+    // T: O(1)
     double findMedian() {
         if (left.size() > right.size()) {
             return left.top();
