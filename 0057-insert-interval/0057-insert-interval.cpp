@@ -1,27 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
 
         vector<vector<int>> res;
         int n = intervals.size();
-        // intervals.push_back(newInterval);
-
-        // sort(intervals.begin(), intervals.end());
-        // res.push_back(intervals[0]);
-        // for(int i=1;i<intervals.size();i++){
-        //     auto& lastElement = res.back();
-
-        //     if(lastElement[1]>=intervals[i][0]){
-        //         lastElement[1]=max(lastElement[1], intervals[i][1]);
-        //     }
-        //     else{
-        //         res.push_back(intervals[i]);
-        //     }
-        // }
-        
 
         // Efficient Method
         int i=0;
@@ -40,8 +22,7 @@ public:
         while(i<n){
             res.push_back(intervals[i++]);
         }
-        
-
+    
         return res;
     }
 };
