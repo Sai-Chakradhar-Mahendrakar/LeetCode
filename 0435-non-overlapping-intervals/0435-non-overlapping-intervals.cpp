@@ -7,7 +7,7 @@ public:
         });
 
         int prevEnd = intervals[0][1];
-        // Overlaping Condition [i][0]<[1]
+        // Overlaping Condition [i][0]<[1] curStart<prevEnd
         for(int i=1;i<intervals.size();i++){
             if(intervals[i][0]<prevEnd){
                 cnt++;
