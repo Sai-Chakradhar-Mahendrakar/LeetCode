@@ -409,6 +409,7 @@ Daily LeetCode Problems
 | [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -490,6 +491,7 @@ Daily LeetCode Problems
 | [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -512,6 +514,7 @@ Daily LeetCode Problems
 | [0135-candy](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
@@ -585,6 +588,7 @@ Daily LeetCode Problems
 | [0274-h-index](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0455-assign-cookies) |
