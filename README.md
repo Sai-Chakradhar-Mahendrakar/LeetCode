@@ -424,6 +424,7 @@ Daily LeetCode Problems
 | [0735-asteroid-collision](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -822,6 +823,7 @@ Daily LeetCode Problems
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Indexed Tree
 |  |
@@ -972,6 +974,7 @@ Daily LeetCode Problems
 | [0237-delete-node-in-a-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0355-design-twitter) |
+| [0859-design-circular-deque](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
@@ -995,6 +998,7 @@ Daily LeetCode Problems
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
 |  |
