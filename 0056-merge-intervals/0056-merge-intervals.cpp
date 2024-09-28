@@ -1,10 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-        
         int n = intervals.size();
         if(n<=1){
             return intervals;
