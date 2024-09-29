@@ -862,6 +862,7 @@ Daily LeetCode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
@@ -881,6 +882,7 @@ Daily LeetCode Problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -893,6 +895,7 @@ Daily LeetCode Problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Graph
