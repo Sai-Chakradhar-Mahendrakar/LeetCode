@@ -845,6 +845,7 @@ Daily LeetCode Problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
@@ -871,6 +872,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -880,6 +882,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
