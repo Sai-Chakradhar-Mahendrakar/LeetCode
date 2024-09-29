@@ -19,29 +19,30 @@ public:
         }
 
         queue<TreeNode*> q;
-
         q.push(root);
+        q.push(NULL);
+        vector<int> curr; 
 
         while(!q.empty()){
-            int size = q.size();
-            vector<int> cur;
-
-            for(int i=0;i<size;i++){
-                auto temp = q.front();
-                q.pop();
-                cur.push_back(temp->val);
-
+            TreeNode* temp = q.front();
+            q.pop();
+            if(temp==NULL){
+                res.push_back(curr);
+                curr.clear();
+                if(!q.empty()){
+                    q.push(NULL);
+                }
+            }
+            else{
+                curr.push_back(temp->val);
                 if(temp->left){
                     q.push(temp->left);
                 }
-
                 if(temp->right){
                     q.push(temp->right);
                 }
             }
-            res.push_back(cur);
         }
-
         return res;
     }
 };
