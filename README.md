@@ -686,6 +686,7 @@ Daily LeetCode Problems
 | [0071-simplify-path](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -851,6 +852,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -865,12 +867,14 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Graph
