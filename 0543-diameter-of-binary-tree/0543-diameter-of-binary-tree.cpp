@@ -9,33 +9,28 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class HDpair{
-    public:
-        int ht;
-        int dia;
-};
 class Solution {
 public:
-    HDpair opt(TreeNode* root){
-        HDpair p;
+    int diameterOfBinaryTree(TreeNode* root) {
+        pair<int, int>p = calDiameter(root);
+        return p.second;
+    }
+private:
+    pair<int, int> calDiameter(TreeNode* root){
         if(root==NULL){
-            p.ht=p.dia=0;
-            return p;
+            return {0, 0};
         }
 
-        HDpair left = opt(root->left);
-        HDpair right = opt(root->right);
+        pair<int, int> left, right;
+        left = calDiameter(root->left);
+        right = calDiameter(root->right);
 
-        p.ht = max(left.ht,right.ht)+1;
-        int d1 = left.ht+right.ht;
-        int d2 = left.dia;
-        int d3 = right.dia;
-        p.dia = max(d1,max(d2,d3));
-        return p;
-    }
+        int h = max(left.first, right.first)+1;
+        int d1 = left.first+right.first;
+        int d2 = left.second;
+        int d3 = right.second;
+        int d = max(d1, max(d2, d3));
 
-    int diameterOfBinaryTree(TreeNode* root) {
-        HDpair p = opt(root);
-        return p.dia; 
+        return {h, d};
     }
 };
