@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    // x->col, y->row
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         map<int, multiset<pair<int, int>>> mp; // [x][y, val]
             traversal(root, 0, 0, mp);
@@ -18,7 +19,9 @@ public:
             for(auto& [x, st] : mp)
             {
                 res.push_back({});
-                for(auto& [y, val] : st) res.back().push_back(val);
+                for(auto& [y, val] : st) {
+                    res.back().push_back(val);
+                }
             }
             return res;
     }
