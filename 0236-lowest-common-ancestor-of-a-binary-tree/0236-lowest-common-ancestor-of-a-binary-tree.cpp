@@ -10,25 +10,20 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL){
-            return NULL;
-        }
-
-        if(root->val==p->val || root->val==q->val){
+        if(!root || root==p || root==q){
             return root;
         }
 
         TreeNode* left = lowestCommonAncestor(root->left, p, q);
+        if(left && left!=p && left!=q){
+            return left; // found in left subtree
+        }
+
         TreeNode* right = lowestCommonAncestor(root->right, p, q);
-
-        if(left==NULL){
-            return right;
+        if(left && right){
+            return root;  // Present in different subtree;
         }
 
-        if(right==NULL){
-            return left;
-        }
-
-        return root;
+        return left ? left:right; // return non null value
     }
 };
