@@ -13,28 +13,26 @@ class Solution {
 public:
     // T: (O(log^2(n))
     // Function to compute the height of the tree
-    int getDepth(TreeNode* node, bool left) {
-        int depth = 0;
-        while (node) {
-            depth++;
-            node = left ? node->left : node->right;
-        }
-        return depth;
-    }
+    
     
     int countNodes(TreeNode* root) {
         if (!root) return 0;  
-        
-        // Compute the leftmost and rightmost depths
-        int leftDepth = getDepth(root, true);
-        int rightDepth = getDepth(root, false);
-        
-        // If the depths are the same, the tree is full
-        if (leftDepth == rightDepth) {
-            return (1 << leftDepth) - 1;  // 2^depth - 1
+        int l=0, r=0;
+        TreeNode *lt=root, *rt=root;
+        while(lt->left){
+            lt = lt->left;
+            l++;
         }
-        
-        // Otherwise, recursively count the nodes in the left and right subtrees
+
+        while(rt->right){
+            rt = rt->right;
+            r++;
+        }
+
+        if(l==r){
+            return (1<<(l+1))-1;
+        }
+
         return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
