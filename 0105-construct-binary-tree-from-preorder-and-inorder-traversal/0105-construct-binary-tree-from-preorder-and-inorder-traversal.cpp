@@ -19,9 +19,9 @@ public:
         TreeNode* root = new TreeNode(preorder[indx]);
 
         int split;
-        for(int i=0;i<inorder.size()-1;i++){
-            if(preorder[indx]==inorder[i]){
-                split=i;
+        for(int k=i;k<=j;k++){
+            if(preorder[indx]==inorder[k]){
+                split=k;
                 break;
             }
         }
