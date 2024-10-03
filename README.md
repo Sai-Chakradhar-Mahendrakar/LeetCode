@@ -665,6 +665,7 @@ Daily LeetCode Problems
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0402-remove-k-digits) |
@@ -860,6 +861,7 @@ Daily LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -880,6 +882,7 @@ Daily LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
@@ -910,6 +913,7 @@ Daily LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -933,6 +937,7 @@ Daily LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1067,6 +1072,7 @@ Daily LeetCode Problems
 | [0225-implement-stack-using-queues](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0859-design-circular-deque) |
