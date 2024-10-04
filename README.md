@@ -437,6 +437,7 @@ Daily LeetCode Problems
 | [1034-subarrays-with-k-different-integers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -714,6 +715,7 @@ Daily LeetCode Problems
 | [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -933,6 +935,7 @@ Daily LeetCode Problems
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -964,6 +967,7 @@ Daily LeetCode Problems
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Graph
 |  |
@@ -1005,6 +1009,7 @@ Daily LeetCode Problems
 | [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## String Matching
 |  |
@@ -1123,4 +1128,5 @@ Daily LeetCode Problems
 | [0783-search-in-a-binary-search-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
