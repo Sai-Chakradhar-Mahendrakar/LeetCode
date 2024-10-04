@@ -23,7 +23,8 @@ private:
         }
 
         if (root->val < right && root->val > left) {
-            return helper(root->left, left, root->val) && helper(root->right, root->val, right);
+            return helper(root->left, left, root->val) && 
+            helper(root->right, root->val, right);
         }
         return false;
     }
