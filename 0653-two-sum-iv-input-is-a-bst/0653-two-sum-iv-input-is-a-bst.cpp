@@ -20,13 +20,10 @@ private:
         if(root==NULL){
             return false;
         }
-
         if(mp.find(k-root->val)!=mp.end()){
             return true;
         }
-
         mp.insert(root->val);
-
         return helper(root->left, k, mp) || helper(root->right, k, mp);
     }
 };
