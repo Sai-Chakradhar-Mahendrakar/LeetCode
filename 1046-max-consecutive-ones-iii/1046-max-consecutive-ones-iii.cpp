@@ -7,7 +7,7 @@ public:
         int n=nums.size();
 
         while(r<n){
-            while(l<n && k<1 && nums[r]==0){
+            while(l<n && k==0 && nums[r]==0){
                 if(nums[l]==0){
                     k++;
                 }
