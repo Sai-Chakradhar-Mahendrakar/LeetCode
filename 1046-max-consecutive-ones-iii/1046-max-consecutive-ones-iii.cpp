@@ -4,7 +4,6 @@ public:
         int l=0;
         int r=0;
         int ans=0;
-        int sum=0;
         int n=nums.size();
 
         while(r<n){
