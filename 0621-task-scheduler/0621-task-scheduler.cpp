@@ -5,6 +5,7 @@ public:
         for(auto x:tasks){
             freq[x-'A']++;
         }
+        
         sort(begin(freq), end(freq));
         int chunk=freq[25]-1;
         int idle=chunk*n;
