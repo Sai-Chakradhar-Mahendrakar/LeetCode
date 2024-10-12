@@ -19,7 +19,6 @@ public:
                 res.push_back(cur->val);
                 cur = cur->right;
             }
-            
             else{
                 TreeNode* prev = cur->left;
                 while(prev->right && prev->right!=cur){
