@@ -29,6 +29,10 @@ public:
                 q.pop();
                 lastNodeValue = node->val;
 
+                if (i == levelSize - 1) {
+                    res.push_back(node->val);
+                }
+
                 if (node->left) {
                     q.push(node->left);
                 }
@@ -37,7 +41,6 @@ public:
                     q.push(node->right);
                 }
             }
-            res.push_back(lastNodeValue);
         }
 
         return res;
