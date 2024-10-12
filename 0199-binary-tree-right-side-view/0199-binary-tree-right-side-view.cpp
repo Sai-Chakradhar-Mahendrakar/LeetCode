@@ -22,12 +22,10 @@ public:
 
         while (!q.empty()) {
             int levelSize = q.size();
-            int lastNodeValue;
 
             for (int i = 0; i < levelSize; ++i) {
                 TreeNode* node = q.front();
                 q.pop();
-                lastNodeValue = node->val;
 
                 if (i == levelSize - 1) {
                     res.push_back(node->val);
