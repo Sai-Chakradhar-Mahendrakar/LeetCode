@@ -492,6 +492,7 @@ Daily LeetCode Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -674,6 +675,7 @@ Daily LeetCode Problems
 | [0087-scramble-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -1113,6 +1115,7 @@ Daily LeetCode Problems
 | [0046-permutations](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
