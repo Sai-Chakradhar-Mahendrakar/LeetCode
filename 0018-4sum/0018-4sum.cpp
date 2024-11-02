@@ -20,7 +20,7 @@ public:
 
                 while(l<r){
                     long long cur = (long long)nums[i] + (long long)nums[j] + (long long)nums[l] + (long long)nums[r];                
-                        if(cur==target){
+                    if(cur==target){
                         res.insert({nums[i],nums[j],nums[l],nums[r]});
                         l++;
                         r--;
