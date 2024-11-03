@@ -687,6 +687,7 @@ Daily LeetCode Problems
 | [0205-isomorphic-strings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0383-ransom-note) |
@@ -763,6 +764,7 @@ Daily LeetCode Problems
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0282-expression-add-operators) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1127,6 +1129,7 @@ Daily LeetCode Problems
 | [0090-subsets-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0282-expression-add-operators) |
 ## Enumeration
 |  |
 | ------- |
