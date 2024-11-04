@@ -43,7 +43,7 @@ private:
         int cnt=0;
 
         for(int i=low;i<=mid;i++){
-            while(right<=high and (nums[i]/2.0) > nums[right]){
+            while(right<=high and nums[i] > nums[right]*2.0){
                 right++;
             }
             cnt+=(right-(mid+1));
