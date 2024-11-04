@@ -3,7 +3,7 @@ public:
     int singleNonDuplicate(vector<int>& nums) {
         int s=0;
         int e=nums.size()-1;
-
+        
         while(s<e){
             int mid=(s+e)/2;
 
