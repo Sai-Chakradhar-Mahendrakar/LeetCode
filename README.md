@@ -893,6 +893,7 @@ Daily LeetCode Problems
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
@@ -920,6 +921,7 @@ Daily LeetCode Problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
@@ -931,6 +933,7 @@ Daily LeetCode Problems
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Tree
@@ -1006,6 +1009,7 @@ Daily LeetCode Problems
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Bit Manipulation
 |  |
