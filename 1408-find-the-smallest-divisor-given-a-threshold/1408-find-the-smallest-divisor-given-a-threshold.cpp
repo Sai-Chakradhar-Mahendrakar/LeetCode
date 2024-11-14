@@ -7,12 +7,12 @@ public:
         int res=INT_MAX;
         while(s<=e){
             int mid=(s+e)/2;
-            if(makeDivisor(nums, mid)>threshold){
-                s=mid+1;
-            }
-            else{
+            if(makeDivisor(nums, mid)<=threshold){
                 res=min(res, mid);
                 e=mid-1;
+            }
+            else{
+                s=mid+1;
             }
         }
         return res;
