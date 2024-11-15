@@ -22,12 +22,12 @@ private:
         int partition=1;
         int sum=0;
         for(auto x: nums){
-            if(sum+x<=mid){
-                sum+=x;
-            }
-            else{
+            if(sum+x>mid){
                 partition++;
                 sum=x;
+            }
+            else{
+                sum+=x;
             }
         }
         return partition;
