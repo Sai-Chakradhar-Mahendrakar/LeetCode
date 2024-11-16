@@ -24,11 +24,9 @@ private:
         for(auto x: nums){
             if(sum+x>mid){
                 partition++;
-                sum=x;
+                sum=0;
             }
-            else{
-                sum+=x;
-            }
+            sum+=x;
         }
         return partition;
     }
