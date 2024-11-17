@@ -1,10 +1,6 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-        
         string ans="";
         vector<pair<char, int>> v(127);
 
