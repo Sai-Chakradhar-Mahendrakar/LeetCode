@@ -11,10 +11,6 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-        
         if (!head || !head->next){
             return head;
         }
