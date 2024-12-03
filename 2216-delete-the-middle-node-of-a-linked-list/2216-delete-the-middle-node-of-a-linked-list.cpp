@@ -22,9 +22,9 @@ public:
             slow=slow->next;
             fast=fast->next->next;
         }
-        ListNode* node = slow->next;
+        // ListNode* node = slow->next;
         slow->next=slow->next->next;
-        delete node;
+        // delete node;
         return head;
     }
 };
