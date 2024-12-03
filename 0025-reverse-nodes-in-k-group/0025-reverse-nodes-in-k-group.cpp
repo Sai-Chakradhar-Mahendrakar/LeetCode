@@ -11,10 +11,6 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-
         if (head == NULL || k == 1) {
             return head;
         }
