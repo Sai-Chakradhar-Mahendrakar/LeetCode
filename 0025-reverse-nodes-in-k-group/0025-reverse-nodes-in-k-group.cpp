@@ -39,8 +39,8 @@ public:
             cnt++;
         }
 
-        if (temp != NULL) {
-            head->next = reverseKGroup(temp, k);
+        if (cur != NULL) {
+            head->next = reverseKGroup(cur, k);
         }
 
         return prev;
