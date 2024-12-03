@@ -10,7 +10,7 @@ public:
             ans[i][i] = 1;
 
             // Dyanmic Programming
-            for (int j = 1; j < i; ++j) {
+            for (int j = 1; j < i; j++) {
                 ans[i][j] = ans[i - 1][j - 1] + ans[i - 1][j];
             }
         }
