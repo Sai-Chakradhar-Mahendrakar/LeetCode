@@ -25,10 +25,6 @@ public:
     }
 
     int countPrimes(int n) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-
         // Handle the case where n is less than 2
         if (n < 2) {
             return 0;
