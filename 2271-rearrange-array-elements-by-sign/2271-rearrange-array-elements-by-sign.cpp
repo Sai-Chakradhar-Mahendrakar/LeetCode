@@ -1,10 +1,6 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-
         int n = nums.size();
         vector<int> ans(n, 0);
         int pIdx=0;
