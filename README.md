@@ -757,6 +757,7 @@ Daily LeetCode Problems
 | [0013-roman-to-integer](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -860,6 +861,7 @@ Daily LeetCode Problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0231-power-of-two) |
