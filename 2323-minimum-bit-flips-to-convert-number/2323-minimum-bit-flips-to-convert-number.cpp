@@ -7,7 +7,7 @@ public:
 private:
     int countSetBits(int n){
         int ans=0;
-        while(n){
+        while(n>0){
             ans++;
             n=n&(n-1);
         }
