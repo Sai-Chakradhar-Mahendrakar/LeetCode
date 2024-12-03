@@ -9,7 +9,7 @@ public:
 
         // Use KMP Algorithm
         string concatenated = s + s;
-        return concatenated.find(goal) != -1;
+        return concatenated.find(goal) != string::npos; //-1
         
     }
 };
