@@ -1,19 +1,15 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& mat) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-
         int rows=mat.size();
         int cols=mat[0].size();
         bool frow=0;
         bool fcol=0;
 
-        //  Cols
-        for (int i = 0; i < rows; i++) {
-            if (mat[i][0] == 0) {
-                fcol = true;
+        // Cols
+        for (int i=0;i<rows;i++) {
+            if (mat[i][0] ==0) {
+                fcol=true;
                 break;
             }
         }
