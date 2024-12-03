@@ -16,7 +16,7 @@ public:
             int l = max(l1, l2);
 
             if(l>maxLen){
-                start = i-(l-1)/2;
+                start = i-(l-1)/2; // center - (len -1)/2
                 maxLen = l;
             }
         }
