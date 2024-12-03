@@ -702,6 +702,7 @@ Daily LeetCode Problems
 | [0686-repeated-string-match](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0686-repeated-string-match) |
 | [0726-number-of-atoms](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1059,6 +1060,7 @@ Daily LeetCode Problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
