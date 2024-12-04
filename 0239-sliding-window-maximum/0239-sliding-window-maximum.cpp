@@ -1,10 +1,6 @@
 class Solution {
 public:
-    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-        
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) { 
         deque<int> dq(k);
         vector<int> res;
 
