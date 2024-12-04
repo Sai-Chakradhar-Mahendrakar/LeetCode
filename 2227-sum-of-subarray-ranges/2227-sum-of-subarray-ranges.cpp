@@ -30,7 +30,6 @@ public:
             }
             st.push(i);
         }
-
         return totalMax - totalMin;
     }
 };
