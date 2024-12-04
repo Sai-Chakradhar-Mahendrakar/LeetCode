@@ -1,10 +1,6 @@
 class Solution {
 public:
-    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
-        
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) { 
         stack<int> st;
         unordered_map<int, int> mp;
         int n=nums2.size();
