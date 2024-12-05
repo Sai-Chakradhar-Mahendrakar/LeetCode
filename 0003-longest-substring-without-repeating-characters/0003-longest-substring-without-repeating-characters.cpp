@@ -15,9 +15,7 @@ public:
             mp[ch]=r;
             win++;
             r++;
-            if(win>maxWin){
-                maxWin = win;
-            }
+            maxWin=max(maxWin, win);
         }
         return maxWin;
     }
