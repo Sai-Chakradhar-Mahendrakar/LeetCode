@@ -22,7 +22,7 @@ public:
                 cnt++;
             }
 
-            if(cnt==t.size()){
+            if(cnt>=t.size()){
                 while(fs[s[l]]>fp[s[l]]){
                     fs[s[l]]--;
                     l++;
