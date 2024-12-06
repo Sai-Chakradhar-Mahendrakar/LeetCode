@@ -14,7 +14,7 @@ public:
         for(int i=1;i<n;i++){
             auto& lastInterval = res.back();
 
-            if(lastInterval[1]>=intervals[i][0]){
+            if(intervals[i][0]<=lastInterval[1]){
                 lastInterval[1] = max(lastInterval[1], intervals[i][1]);
             }
             else{
