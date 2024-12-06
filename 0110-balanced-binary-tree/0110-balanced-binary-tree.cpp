@@ -25,7 +25,7 @@ private:
         left=heightIsBalanced(root->left);
         right=heightIsBalanced(root->right);
 
-        int h = max(left.first, right.first)+1;
+        int h = 1+max(left.first, right.first);
         if(abs(left.first-right.first)<=1 && left.second && right.second){
             return {h, true};
         }
