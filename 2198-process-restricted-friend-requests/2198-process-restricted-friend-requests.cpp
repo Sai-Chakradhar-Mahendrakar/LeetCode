@@ -16,7 +16,7 @@ class DSU{
         int s1 = find(a);
         int s2 = find(b);
         if(s1!=s2){
-            parent[s1]=s2;
+            parent[s2]=s1;
         }
     }
 };
