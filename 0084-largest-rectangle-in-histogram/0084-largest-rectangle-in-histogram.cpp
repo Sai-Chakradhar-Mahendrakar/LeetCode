@@ -4,7 +4,7 @@ public:
         int n = heights.size();
         stack<pair<int, int>> st; // index, height
         int maxArea=0;
-
+        // O(n) next smaller
         for(int i=0;i<n;i++){
             int start=i;
             while(!st.empty() && st.top().second>heights[i]){
@@ -28,7 +28,6 @@ public:
 
             maxArea = max(maxArea, height*width);
         }
-
         return maxArea;
     }
 };
