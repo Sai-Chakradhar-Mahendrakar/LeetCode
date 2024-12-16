@@ -27,7 +27,7 @@ public:
                 TreeNode* node = q.front();
                 q.pop();
 
-                if (i == levelSize - 1) {
+                if (i == levelSize-1) {
                     res.push_back(node->val);
                 }
 
