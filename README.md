@@ -453,6 +453,7 @@ Daily LeetCode Problems
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -743,6 +744,7 @@ Daily LeetCode Problems
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1063,6 +1065,7 @@ Daily LeetCode Problems
 | [0937-online-stock-span](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## String Matching
 |  |
