@@ -917,6 +917,7 @@ Daily LeetCode Problems
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1036-rotting-oranges) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -945,6 +946,7 @@ Daily LeetCode Problems
 | [0801-is-graph-bipartite](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -990,6 +992,7 @@ Daily LeetCode Problems
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1025,6 +1028,7 @@ Daily LeetCode Problems
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
