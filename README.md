@@ -424,6 +424,7 @@ Daily LeetCode Problems
 | [0455-assign-cookies](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -513,6 +514,7 @@ Daily LeetCode Problems
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -1176,6 +1178,7 @@ Daily LeetCode Problems
 | [0131-palindrome-partitioning](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
