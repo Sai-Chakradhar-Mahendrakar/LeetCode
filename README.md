@@ -718,6 +718,7 @@ Daily LeetCode Problems
 | [1078-remove-outermost-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -871,6 +872,7 @@ Daily LeetCode Problems
 | [0966-binary-subarrays-with-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
