@@ -470,6 +470,7 @@ Daily LeetCode Problems
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2601-number-of-great-partitions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2601-number-of-great-partitions) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -724,6 +725,7 @@ Daily LeetCode Problems
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -874,6 +876,7 @@ Daily LeetCode Problems
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
 |  |
 | ------- |
