@@ -469,6 +469,7 @@ Daily LeetCode Problems
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2601-number-of-great-partitions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2601-number-of-great-partitions) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
@@ -876,6 +877,7 @@ Daily LeetCode Problems
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
 |  |
