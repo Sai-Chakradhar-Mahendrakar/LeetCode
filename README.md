@@ -470,6 +470,7 @@ Daily LeetCode Problems
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2601-number-of-great-partitions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2601-number-of-great-partitions) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
@@ -728,6 +729,7 @@ Daily LeetCode Problems
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
@@ -881,6 +883,7 @@ Daily LeetCode Problems
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
 |  |
