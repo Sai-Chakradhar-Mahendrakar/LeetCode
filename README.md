@@ -457,6 +457,7 @@ Daily LeetCode Problems
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1646-kth-missing-positive-number) |
