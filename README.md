@@ -470,6 +470,7 @@ Daily LeetCode Problems
 | [2047-find-a-peak-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -609,6 +610,7 @@ Daily LeetCode Problems
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
@@ -638,6 +640,7 @@ Daily LeetCode Problems
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -844,6 +847,7 @@ Daily LeetCode Problems
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2846-robot-collisions](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
