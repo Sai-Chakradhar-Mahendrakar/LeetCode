@@ -531,6 +531,7 @@ Daily LeetCode Problems
 | [0542-01-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -806,6 +807,7 @@ Daily LeetCode Problems
 | [0279-perfect-squares](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0507-perfect-number) |
+| [0650-2-keys-keyboard](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
