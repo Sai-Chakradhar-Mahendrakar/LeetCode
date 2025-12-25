@@ -437,6 +437,7 @@ Daily LeetCode Problems
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
@@ -526,6 +527,7 @@ Daily LeetCode Problems
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
