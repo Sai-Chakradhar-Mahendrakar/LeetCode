@@ -385,6 +385,7 @@ Daily LeetCode Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -511,6 +512,7 @@ Daily LeetCode Problems
 | [0091-decode-ways](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
