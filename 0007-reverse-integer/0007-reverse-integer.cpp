@@ -1,23 +1,29 @@
 class Solution {
 public:
     int reverse(int x) {
-        int rev=0;
+        long long rev=0;
+        bool neg=false;
 
-        while(x!=0){
-            int lastDigit = x%10;
-            
-            // OverFlow
-            if(rev>INT_MAX/10 or (rev==INT_MAX/10 and lastDigit>7)){
-                return 0;
-            }
-
-            // UnderFlow
-            if(rev<INT_MIN/10 or (rev==INT_MIN/10 and lastDigit<-8)){
-                return 0;
-            }
-
-            rev = rev*10 + lastDigit;
+        if(x<0){
+            neg=true;
+            x=-x;
         }
-        return rev;
+
+        while(x>0){
+            int lastdgt=x%10;
+            
+            if(rev>INT_MAX/10 or (rev==INT_MAX/10 and lastdgt>7)){
+                return 0;
+            }
+
+            if(rev<INT_MIN/10 or (rev==INT_MIN/10 and lastdgt<-8)){
+                return 0;
+            }
+
+            rev = rev*10+lastdgt;
+            x/=10;
+        } 
+
+        return neg ? -rev : rev;
     }
 };
