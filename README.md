@@ -472,6 +472,7 @@ Daily LeetCode Problems
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2047-find-a-peak-element-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -815,6 +816,7 @@ Daily LeetCode Problems
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2050-count-good-numbers) |
 ## Memoization
@@ -1228,6 +1230,7 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Design
 |  |
 | ------- |
