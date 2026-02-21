@@ -469,6 +469,7 @@ Daily LeetCode Problems
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
