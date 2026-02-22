@@ -3,16 +3,16 @@ public:
     int majorityElement(vector<int>& nums) {
         int maxVal=0;
         int maxCnt=0;
-        for(int i=0;i<nums.size();i++){
+        for(int num: nums){
             if(maxCnt==0){
-                maxVal=nums[i];
-            }
-            if(maxVal==nums[i]){
+                maxVal=num;
+            } 
+            if(maxVal==num) {
                 maxCnt++;
-            }
-            if(maxVal!=nums[i]){
+            } 
+            if(maxVal!=num) {
                 maxCnt--;
-            }
+            } 
         }
         return maxVal;
     }
