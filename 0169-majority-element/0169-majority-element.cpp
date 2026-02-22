@@ -6,11 +6,10 @@ public:
         for(int num: nums){
             if(maxCnt==0){
                 maxVal=num;
-            } 
-            if(maxVal==num) {
                 maxCnt++;
-            } 
-            if(maxVal!=num) {
+            } else if(maxVal==num) {
+                maxCnt++;
+            } else {
                 maxCnt--;
             } 
         }
