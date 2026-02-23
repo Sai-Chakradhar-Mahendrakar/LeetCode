@@ -1283,4 +1283,8 @@ Daily LeetCode Problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
