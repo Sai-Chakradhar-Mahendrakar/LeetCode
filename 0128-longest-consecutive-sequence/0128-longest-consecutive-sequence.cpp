@@ -1,22 +1,19 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
+        int res=0;
         unordered_set<int> s(nums.begin(), nums.end());
-
-        int longestBand = 0;
-
-        for(int element: s){
-            if(s.find(element-1)==s.end()){
-                int next = element+1;
+        for(int num: s){
+            if(s.find(num-1)==s.end()){
+                int next=num+1;
                 int cnt=1;
                 while(s.find(next)!=s.end()){
                     next++;
                     cnt++;
                 }
-                longestBand = max(longestBand, cnt);
+                res=max(res, cnt);
             }
         }
-        return longestBand;
+        return res;
     }
 };
