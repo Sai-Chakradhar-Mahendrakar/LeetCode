@@ -457,6 +457,7 @@ Daily LeetCode Problems
 | [1034-subarrays-with-k-different-integers](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -548,6 +549,7 @@ Daily LeetCode Problems
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1013-fibonacci-number) |
+| [1049-last-stone-weight-ii](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
