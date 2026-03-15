@@ -445,6 +445,7 @@ Daily LeetCode Problems
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0859-design-circular-deque) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -542,6 +543,7 @@ Daily LeetCode Problems
 | [0746-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -569,6 +571,7 @@ Daily LeetCode Problems
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0876-hand-of-straights](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1184,6 +1187,7 @@ Daily LeetCode Problems
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Bucket Sort
 |  |
 | ------- |
