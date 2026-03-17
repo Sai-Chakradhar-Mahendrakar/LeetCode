@@ -426,6 +426,7 @@ Daily LeetCode Problems
 | [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0494-target-sum) |
@@ -536,6 +537,7 @@ Daily LeetCode Problems
 | [0410-split-array-largest-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -741,6 +743,7 @@ Daily LeetCode Problems
 | [0402-remove-k-digits](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0686-repeated-string-match) |
