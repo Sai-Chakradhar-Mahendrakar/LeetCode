@@ -476,6 +476,7 @@ Daily LeetCode Problems
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -877,6 +878,7 @@ Daily LeetCode Problems
 | [0735-asteroid-collision](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sai-Chakradhar-Mahendrakar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
